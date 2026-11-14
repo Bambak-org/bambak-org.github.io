@@ -1,9 +1,4 @@
-# Games made with KarinAI
+# bambak-org.github.io
 
-Small browser games that [KarinAI](https://karinai.app) built from a plain-language request, served free with GitHub Pages.
-
-| Game | Play | How it was made |
-|---|---|---|
-| نبرد سه‌نفره (tank and soldier, 3 players on one phone) | [tank/](https://bambak-org.github.io/tank) | YouTube lesson on the Karinai channel |
-
-Each game is one HTML file with no outside links, so it also works offline once opened.
+The site https://bambak-org.github.io/ is served from the **`karinai`** branch: small browser games that
+[KarinAI](https://karinai.app) built from a plain-language request (for example https://bambak-org.github.io/tank).
